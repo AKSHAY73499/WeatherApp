@@ -22,7 +22,7 @@ A simple Weather App built with Node.js, Express, and OpenWeather API to fetch r
    
 2. Navigate to the project folder:
    ```bash
-    cd weather-app
+    cd WeatherApp
    
 3. Install dependencies:
    ```bash
